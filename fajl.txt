@@ -5,3 +5,4 @@ git add . -> go pripremame fajlot za commit
 git commit -m "update fajl.txt"
 git push
 
+git status -> proveruvame status na git fajlovite
