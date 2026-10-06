@@ -8,3 +8,5 @@ git push
 git status -> proveruvame status na git fajlovite
 
 promena
+
+promena direkt od github
