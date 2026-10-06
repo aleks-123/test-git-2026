@@ -1,2 +1,7 @@
 tekst
 asdfsadfsdafas
+
+git add . -> go pripremame fajlot za commit
+git commit -m "update fajl.txt"
+git push
+
