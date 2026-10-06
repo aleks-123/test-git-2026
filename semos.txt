@@ -6,3 +6,19 @@ promena
 blablablabla
 
 implemnatijca za web strana
+
+
+
+
+repo name vezba-git
+
+da dodadete 1 po 1 fajl
+tekst1.txt 
+tekst2.txt
+tekst3.txt
+
+
+da modificarte dva fajla da gi doadete odednash na github
+da modificirate 1 fajl i da go dodadete na githab
+da gi modificirate site 3 fajla i da gi doadete na githab
+x2 ednash preku terminal i ednash preku source control od vscode
