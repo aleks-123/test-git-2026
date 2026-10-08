@@ -10,3 +10,8 @@ git status -> proveruvame status na git fajlovite
 promena
 
 promena direkt od github
+
+
+- Vezba 
+Da se promeni eden fajl (Da se dodade nekakov tekst) i da se prikaci na github
+Odkako kje go updejtirate fajlot, da promenite uste eden drug fajl i da go prikacite na github

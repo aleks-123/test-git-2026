@@ -19,6 +19,10 @@ tekst3.txt
 
 
 da modificarte dva fajla da gi doadete odednash na github
+
+
+
+Vezba na cas
 da modificirate 1 fajl i da go dodadete na githab
 da gi modificirate site 3 fajla i da gi doadete na githab
 x2 ednash preku terminal i ednash preku source control od vscode
